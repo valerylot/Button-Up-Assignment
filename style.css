@@ -1,0 +1,26 @@
+#searchButton{
+    color:rgb(33, 158, 158);
+    border-color:rgb(41, 191, 191);
+    border-radius: 50px;
+    font-size: 15pt;
+    height: 40px;
+    width: 200px;
+    font-weight: bold;
+}
+#plusSign{
+    background-color: rgb(84, 209, 207);
+    font-size: 30pt;
+    color:white;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    border-width: 0;
+}
+#createAccount{
+    background-color: cornflowerblue;
+    color:white;
+    font-size: 25px;
+    height: 50px;
+    width: 300px;
+    box-shadow: 10px 5px 5px black;
+}
